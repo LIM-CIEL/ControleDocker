@@ -23,3 +23,61 @@
 1765445340: 	BTS (QoS 0)
 1765445340: mqttx_c3fcaf6e 0 BTS
 1765445340: Sending SUBACK to mqttx_c3fcaf6e
+1765445400: Received PINGREQ from mqttx_c3fcaf6e
+1765445400: Sending PINGRESP to mqttx_c3fcaf6e
+1765445420: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (35 bytes))
+1765445420: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (35 bytes))
+1765445451: New connection from 172.20.0.1:33394 on port 1883.
+1765445451: New client connected from 172.20.0.1:33394 as postman-mqtt-client-1765445450588 (p5, c0, k60).
+1765445451: No will message specified.
+1765445451: Sending CONNACK to postman-mqtt-client-1765445450588 (0, 0)
+1765445451: Received SUBSCRIBE from postman-mqtt-client-1765445450588
+1765445451: 	TopicControle (QoS 0)
+1765445451: postman-mqtt-client-1765445450588 0 TopicControle
+1765445451: Sending SUBACK to postman-mqtt-client-1765445450588
+1765445451: Received PUBLISH from postman-mqtt-client-1765445450588 (d0, q0, r0, m0, 'TopicControle', ... (5 bytes))
+1765445451: Sending PUBLISH to postman-mqtt-client-1765445450588 (d0, q0, r0, m0, 'TopicControle', ... (5 bytes))
+1765445480: Received PINGREQ from mqttx_c3fcaf6e
+1765445480: Sending PINGRESP to mqttx_c3fcaf6e
+1765445511: Received PINGREQ from postman-mqtt-client-1765445450588
+1765445511: Sending PINGRESP to postman-mqtt-client-1765445450588
+1765445540: Received PINGREQ from mqttx_c3fcaf6e
+1765445540: Sending PINGRESP to mqttx_c3fcaf6e
+1765445571: Received PINGREQ from postman-mqtt-client-1765445450588
+1765445571: Sending PINGRESP to postman-mqtt-client-1765445450588
+1765445600: Received PINGREQ from mqttx_c3fcaf6e
+1765445600: Sending PINGRESP to mqttx_c3fcaf6e
+1765445631: Received PINGREQ from postman-mqtt-client-1765445450588
+1765445631: Sending PINGRESP to postman-mqtt-client-1765445450588
+1765445660: Received PINGREQ from mqttx_c3fcaf6e
+1765445660: Sending PINGRESP to mqttx_c3fcaf6e
+1765445691: Received PINGREQ from postman-mqtt-client-1765445450588
+1765445691: Sending PINGRESP to postman-mqtt-client-1765445450588
+1765445721: Received PINGREQ from mqttx_c3fcaf6e
+1765445721: Sending PINGRESP to mqttx_c3fcaf6e
+1765445724: mosquitto version 2.0.22 terminating
+1765445724: Client mqttx_c3fcaf6e closed its connection.
+1765445744: mosquitto version 2.0.22 starting
+1765445744: Config loaded from /mosquitto/config/mosquitto.conf.
+1765445744: Opening ipv4 listen socket on port 1883.
+1765445744: Opening ipv6 listen socket on port 1883.
+1765445744: Opening websockets listen socket on port 9005.
+1765445744: mosquitto version 2.0.22 running
+1765445744: New client connected from ::ffff:172.20.0.1:35812 as mqttx_c3fcaf6e (p5, c1, k60).
+1765445744: No will message specified.
+1765445744: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765445745: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765445745: 	BTS (QoS 0)
+1765445745: mqttx_c3fcaf6e 0 BTS
+1765445745: Sending SUBACK to mqttx_c3fcaf6e
+1765445805: Received PINGREQ from mqttx_c3fcaf6e
+1765445805: Sending PINGRESP to mqttx_c3fcaf6e
+1765445866: Received PINGREQ from mqttx_c3fcaf6e
+1765445866: Sending PINGRESP to mqttx_c3fcaf6e
+1765445927: Received PINGREQ from mqttx_c3fcaf6e
+1765445927: Sending PINGRESP to mqttx_c3fcaf6e
+1765445988: Received PINGREQ from mqttx_c3fcaf6e
+1765445988: Sending PINGRESP to mqttx_c3fcaf6e
+1765446078: Client mqttx_c3fcaf6e closed its connection.
+1765446193: mosquitto version 2.0.22 terminating
+1765446193: Client <unknown> closed its connection.
