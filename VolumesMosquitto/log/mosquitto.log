@@ -1,0 +1,25 @@
+1765445185: mosquitto version 2.0.22 starting
+1765445185: Config loaded from /mosquitto/config/mosquitto.conf.
+1765445185: Opening ipv4 listen socket on port 1883.
+1765445185: Opening ipv6 listen socket on port 1883.
+1765445185: Opening websockets listen socket on port 9005.
+1765445185: mosquitto version 2.0.22 running
+1765445245: New client connected from ::ffff:172.20.0.1:59392 as mqttx_c3fcaf6e (p5, c1, k60).
+1765445245: No will message specified.
+1765445245: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765445265: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765445265: 	BTS (QoS 0)
+1765445265: mqttx_c3fcaf6e 0 BTS
+1765445265: Sending SUBACK to mqttx_c3fcaf6e
+1765445304: Received UNSUBSCRIBE from mqttx_c3fcaf6e
+1765445304: 	BTS
+1765445304: mqttx_c3fcaf6e BTS
+1765445304: Sending UNSUBACK to mqttx_c3fcaf6e
+1765445315: Client mqttx_c3fcaf6e closed its connection.
+1765445333: New client connected from ::ffff:172.20.0.1:43566 as mqttx_c3fcaf6e (p5, c1, k60).
+1765445333: No will message specified.
+1765445333: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765445340: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765445340: 	BTS (QoS 0)
+1765445340: mqttx_c3fcaf6e 0 BTS
+1765445340: Sending SUBACK to mqttx_c3fcaf6e
