@@ -94,3 +94,72 @@
 1765446467: New client connected from ::ffff:172.20.0.1:60264 as mqttx_c3fcaf6e (p5, c1, k60).
 1765446467: No will message specified.
 1765446467: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765446527: Client mqttx_c3fcaf6e closed its connection.
+1765446587: New client connected from ::ffff:172.20.0.1:36520 as mqttx_c3fcaf6e (p5, c1, k60).
+1765446587: No will message specified.
+1765446587: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765446588: New connection from ::1:55192 on port 1883.
+1765446588: New client connected from ::1:55192 as auto-69E884A5-E269-A2A2-BD57-3D43E607E2C5 (p2, c1, k60).
+1765446588: No will message specified.
+1765446588: Sending CONNACK to auto-69E884A5-E269-A2A2-BD57-3D43E607E2C5 (0, 0)
+1765446588: Received SUBSCRIBE from auto-69E884A5-E269-A2A2-BD57-3D43E607E2C5
+1765446588: 	# (QoS 0)
+1765446588: auto-69E884A5-E269-A2A2-BD57-3D43E607E2C5 0 #
+1765446588: Sending SUBACK to auto-69E884A5-E269-A2A2-BD57-3D43E607E2C5
+1765446599: Received DISCONNECT from auto-69E884A5-E269-A2A2-BD57-3D43E607E2C5
+1765446599: Client auto-69E884A5-E269-A2A2-BD57-3D43E607E2C5 disconnected.
+1765446628: New connection from ::1:47438 on port 1883.
+1765446628: New client connected from ::1:47438 as auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD (p2, c1, k60).
+1765446628: No will message specified.
+1765446628: Sending CONNACK to auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD (0, 0)
+1765446628: Received SUBSCRIBE from auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446628: 	# (QoS 0)
+1765446628: auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD 0 #
+1765446628: Sending SUBACK to auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446647: Client mqttx_c3fcaf6e closed its connection.
+1765446656: New client connected from ::ffff:172.20.0.1:39852 as mqttx_c3fcaf6e (p5, c1, k60).
+1765446656: No will message specified.
+1765446656: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765446656: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765446656: 	BTS (QoS 0)
+1765446656: mqttx_c3fcaf6e 0 BTS
+1765446656: Sending SUBACK to mqttx_c3fcaf6e
+1765446688: Received PINGREQ from auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446688: Sending PINGRESP to auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446689: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (26 bytes))
+1765446689: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (26 bytes))
+1765446689: Sending PUBLISH to auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD (d0, q0, r0, m0, 'BTS', ... (26 bytes))
+1765446749: Received PINGREQ from auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446749: Sending PINGRESP to auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446749: Received PINGREQ from mqttx_c3fcaf6e
+1765446749: Sending PINGRESP to mqttx_c3fcaf6e
+1765446809: Received PINGREQ from auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446809: Sending PINGRESP to auto-9F2A0935-5C94-6838-339C-C2077F4FC1AD
+1765446809: Received PINGREQ from mqttx_c3fcaf6e
+1765446809: Sending PINGRESP to mqttx_c3fcaf6e
+1765446809: mosquitto version 2.0.22 terminating
+1765446809: Client mqttx_c3fcaf6e closed its connection.
+1765446815: mosquitto version 2.0.22 starting
+1765446815: Config loaded from /mosquitto/config/mosquitto.conf.
+1765446815: Opening ipv4 listen socket on port 1883.
+1765446815: Opening ipv6 listen socket on port 1883.
+1765446815: Opening websockets listen socket on port 9005.
+1765446815: mosquitto version 2.0.22 running
+1765446816: New client connected from ::ffff:172.20.0.1:44366 as mqttx_c3fcaf6e (p5, c1, k60).
+1765446816: No will message specified.
+1765446816: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765446816: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765446816: 	BTS (QoS 0)
+1765446816: mqttx_c3fcaf6e 0 BTS
+1765446816: Sending SUBACK to mqttx_c3fcaf6e
+1765446818: New connection from 172.20.0.5:59910 on port 1883.
+1765446818: New client connected from 172.20.0.5:59910 as auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC (p2, c1, k60).
+1765446818: No will message specified.
+1765446818: Sending CONNACK to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC (0, 0)
+1765446818: Received SUBSCRIBE from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765446818: 	# (QoS 0)
+1765446818: auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC 0 #
+1765446818: Sending SUBACK to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765446844: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (21 bytes))
+1765446844: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (21 bytes))
+1765446844: Sending PUBLISH to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC (d0, q0, r0, m0, 'BTS', ... (21 bytes))
