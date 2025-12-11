@@ -4,3 +4,34 @@ BTS {
 BTS {
   "msg": "log OK"
 }
+BTS {
+  "msg": "OK"
+}
+CIEL {
+  "msg": "OK"
+}
+CIEL {
+  "msg": "CIEL ma websocket"
+}
+BTS {
+  "msg": "CIEL ma websocket"
+}
+BTS {
+  "msg": "CIEL Branly"
+}
+BTS {
+  "msg": "log OK"
+}
+BTS {
+  "msg": "OK"
+}
+BTS CIEL ma websocket
+BTS CIEL Branly
+BTS log OK
+BTS OK
+BTS CIEL ma websocket
+BTS CIEL Branly
+BTS log OK
+CIEL OK
+CIEL CIEL ma websocket
+CIEL OK

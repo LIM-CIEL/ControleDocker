@@ -163,3 +163,336 @@
 1765446844: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (21 bytes))
 1765446844: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (21 bytes))
 1765446844: Sending PUBLISH to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC (d0, q0, r0, m0, 'BTS', ... (21 bytes))
+1765446878: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765446878: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765446904: Received PINGREQ from mqttx_c3fcaf6e
+1765446904: Sending PINGRESP to mqttx_c3fcaf6e
+1765446938: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765446938: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765446964: Received PINGREQ from mqttx_c3fcaf6e
+1765446964: Sending PINGRESP to mqttx_c3fcaf6e
+1765446997: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765446997: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447024: Received PINGREQ from mqttx_c3fcaf6e
+1765447024: Sending PINGRESP to mqttx_c3fcaf6e
+1765447057: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447057: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447084: Received PINGREQ from mqttx_c3fcaf6e
+1765447084: Sending PINGRESP to mqttx_c3fcaf6e
+1765447117: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447117: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447144: Received PINGREQ from mqttx_c3fcaf6e
+1765447144: Sending PINGRESP to mqttx_c3fcaf6e
+1765447177: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447177: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447204: Received PINGREQ from mqttx_c3fcaf6e
+1765447204: Sending PINGRESP to mqttx_c3fcaf6e
+1765447237: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447237: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447264: Received PINGREQ from mqttx_c3fcaf6e
+1765447264: Sending PINGRESP to mqttx_c3fcaf6e
+1765447298: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447298: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447324: Received PINGREQ from mqttx_c3fcaf6e
+1765447324: Sending PINGRESP to mqttx_c3fcaf6e
+1765447358: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447358: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447384: Received PINGREQ from mqttx_c3fcaf6e
+1765447384: Sending PINGRESP to mqttx_c3fcaf6e
+1765447418: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447418: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447444: Received PINGREQ from mqttx_c3fcaf6e
+1765447444: Sending PINGRESP to mqttx_c3fcaf6e
+1765447478: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447478: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447504: Received PINGREQ from mqttx_c3fcaf6e
+1765447504: Sending PINGRESP to mqttx_c3fcaf6e
+1765447538: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447538: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447566: Received PINGREQ from mqttx_c3fcaf6e
+1765447566: Sending PINGRESP to mqttx_c3fcaf6e
+1765447598: Received PINGREQ from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447598: Sending PINGRESP to auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447627: Received PINGREQ from mqttx_c3fcaf6e
+1765447627: Sending PINGRESP to mqttx_c3fcaf6e
+1765447651: Received DISCONNECT from auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC
+1765447651: Client auto-1ED0F0C6-2D75-BB9E-11D2-6A682F9827CC disconnected.
+1765447651: mosquitto version 2.0.22 terminating
+1765447651: Client mqttx_c3fcaf6e closed its connection.
+1765447671: mosquitto version 2.0.22 starting
+1765447671: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447671: Opening ipv4 listen socket on port 1883.
+1765447671: Opening ipv6 listen socket on port 1883.
+1765447671: Opening websockets listen socket on port 9005.
+1765447671: mosquitto version 2.0.22 running
+1765447674: New connection from 172.20.0.6:34016 on port 1883.
+1765447674: New client connected from 172.20.0.6:34016 as auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F (p2, c1, k60).
+1765447674: No will message specified.
+1765447674: Sending CONNACK to auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F (0, 0)
+1765447674: Received SUBSCRIBE from auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447674: 	# (QoS 0)
+1765447674: auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F 0 #
+1765447674: Sending SUBACK to auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447725: New client connected from ::ffff:172.20.0.1:59216 as mqttx_c3fcaf6e (p5, c1, k60).
+1765447725: No will message specified.
+1765447725: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765447725: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765447725: 	BTS (QoS 0)
+1765447725: mqttx_c3fcaf6e 0 BTS
+1765447725: Sending SUBACK to mqttx_c3fcaf6e
+1765447726: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447726: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447726: Sending PUBLISH to auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765447733: Received PINGREQ from auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447733: Sending PINGRESP to auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447743: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765447743: 	CIEL (QoS 0)
+1765447743: mqttx_c3fcaf6e 0 CIEL
+1765447743: Sending SUBACK to mqttx_c3fcaf6e
+1765447752: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (17 bytes))
+1765447752: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (17 bytes))
+1765447752: Sending PUBLISH to auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F (d0, q0, r0, m0, 'CIEL', ... (17 bytes))
+1765447793: Received PINGREQ from auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447793: Sending PINGRESP to auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447813: Received PINGREQ from mqttx_c3fcaf6e
+1765447813: Sending PINGRESP to mqttx_c3fcaf6e
+1765447853: Client mqttx_c3fcaf6e closed its connection.
+1765447853: Received PINGREQ from auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447853: Sending PINGRESP to auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447896: Received DISCONNECT from auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F
+1765447896: Client auto-F248A07F-89FB-BAFD-1A86-33C6B3E8947F disconnected.
+1765447897: mosquitto version 2.0.22 terminating
+1765447902: mosquitto version 2.0.22 starting
+1765447902: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447902: Opening ipv4 listen socket on port 1883.
+1765447902: Opening ipv6 listen socket on port 1883.
+1765447902: Opening websockets listen socket on port 9005.
+1765447902: mosquitto version 2.0.22 running
+1765447905: New connection from 172.20.0.6:55070 on port 1883.
+1765447905: New client connected from 172.20.0.6:55070 as auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E (p2, c1, k60).
+1765447905: No will message specified.
+1765447905: Sending CONNACK to auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E (0, 0)
+1765447905: Received SUBSCRIBE from auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E
+1765447905: 	# (QoS 0)
+1765447905: auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E 0 #
+1765447905: Sending SUBACK to auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E
+1765447965: Received PINGREQ from auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E
+1765447965: Sending PINGRESP to auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E
+1765447966: Received DISCONNECT from auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E
+1765447966: Client auto-3AA95BCD-6EBA-DA3A-8E8B-F7B682A9096E disconnected.
+1765447966: mosquitto version 2.0.22 terminating
+1765447976: mosquitto version 2.0.22 starting
+1765447976: Config loaded from /mosquitto/config/mosquitto.conf.
+1765447976: Opening ipv4 listen socket on port 1883.
+1765447976: Opening ipv6 listen socket on port 1883.
+1765447976: Opening websockets listen socket on port 9005.
+1765447976: mosquitto version 2.0.22 running
+1765447979: New connection from 172.20.0.6:58374 on port 1883.
+1765447979: New client connected from 172.20.0.6:58374 as auto-9C5B562D-E80D-77D5-114C-310DF7A57E52 (p2, c1, k60).
+1765447979: No will message specified.
+1765447979: Sending CONNACK to auto-9C5B562D-E80D-77D5-114C-310DF7A57E52 (0, 0)
+1765447979: Received SUBSCRIBE from auto-9C5B562D-E80D-77D5-114C-310DF7A57E52
+1765447979: 	# (QoS 0)
+1765447979: auto-9C5B562D-E80D-77D5-114C-310DF7A57E52 0 #
+1765447979: Sending SUBACK to auto-9C5B562D-E80D-77D5-114C-310DF7A57E52
+1765448039: Received PINGREQ from auto-9C5B562D-E80D-77D5-114C-310DF7A57E52
+1765448039: Sending PINGRESP to auto-9C5B562D-E80D-77D5-114C-310DF7A57E52
+1765448098: Received PINGREQ from auto-9C5B562D-E80D-77D5-114C-310DF7A57E52
+1765448098: Sending PINGRESP to auto-9C5B562D-E80D-77D5-114C-310DF7A57E52
+1765448136: Received DISCONNECT from auto-9C5B562D-E80D-77D5-114C-310DF7A57E52
+1765448136: Client auto-9C5B562D-E80D-77D5-114C-310DF7A57E52 disconnected.
+1765448136: mosquitto version 2.0.22 terminating
+1765448141: mosquitto version 2.0.22 starting
+1765448141: Config loaded from /mosquitto/config/mosquitto.conf.
+1765448141: Opening ipv4 listen socket on port 1883.
+1765448141: Opening ipv6 listen socket on port 1883.
+1765448141: Opening websockets listen socket on port 9005.
+1765448141: mosquitto version 2.0.22 running
+1765448143: New connection from 172.20.0.6:60690 on port 1883.
+1765448143: New client connected from 172.20.0.6:60690 as auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (p2, c1, k60).
+1765448143: No will message specified.
+1765448143: Sending CONNACK to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (0, 0)
+1765448143: Received SUBSCRIBE from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448143: 	# (QoS 0)
+1765448143: auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 0 #
+1765448143: Sending SUBACK to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448203: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448203: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448208: New client connected from ::ffff:172.20.0.1:47406 as mqttx_c3fcaf6e (p5, c1, k60).
+1765448208: No will message specified.
+1765448208: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765448208: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448208: 	BTS (QoS 0)
+1765448208: mqttx_c3fcaf6e 0 BTS
+1765448208: Sending SUBACK to mqttx_c3fcaf6e
+1765448209: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448209: 	CIEL (QoS 0)
+1765448209: mqttx_c3fcaf6e 0 CIEL
+1765448209: Sending SUBACK to mqttx_c3fcaf6e
+1765448213: Received UNSUBSCRIBE from mqttx_c3fcaf6e
+1765448213: 	BTS
+1765448213: mqttx_c3fcaf6e BTS
+1765448213: Sending UNSUBACK to mqttx_c3fcaf6e
+1765448213: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448213: 	BTS/# (QoS 0)
+1765448213: mqttx_c3fcaf6e 0 BTS/#
+1765448213: Sending SUBACK to mqttx_c3fcaf6e
+1765448219: Received UNSUBSCRIBE from mqttx_c3fcaf6e
+1765448219: 	CIEL
+1765448219: mqttx_c3fcaf6e CIEL
+1765448219: Sending UNSUBACK to mqttx_c3fcaf6e
+1765448219: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448219: 	CIEL/# (QoS 0)
+1765448219: mqttx_c3fcaf6e 0 CIEL/#
+1765448219: Sending SUBACK to mqttx_c3fcaf6e
+1765448237: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765448237: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765448237: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765448249: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765448249: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765448249: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765448262: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (26 bytes))
+1765448262: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (26 bytes))
+1765448262: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (26 bytes))
+1765448263: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448263: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448277: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (21 bytes))
+1765448277: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (21 bytes))
+1765448277: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (21 bytes))
+1765448288: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448288: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448288: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448323: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448323: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448323: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448324: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448324: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448330: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765448330: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765448330: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765448346: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765448346: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765448346: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765448360: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (2 bytes))
+1765448360: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (2 bytes))
+1765448360: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (2 bytes))
+1765448372: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448372: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448372: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (17 bytes))
+1765448382: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765448382: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765448382: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (11 bytes))
+1765448383: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448383: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448393: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765448393: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765448393: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'BTS', ... (6 bytes))
+1765448431: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765448431: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765448431: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765448437: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (17 bytes))
+1765448437: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (17 bytes))
+1765448437: Sending PUBLISH to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 (d0, q0, r0, m0, 'CIEL', ... (17 bytes))
+1765448444: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448444: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448497: Received PINGREQ from mqttx_c3fcaf6e
+1765448497: Sending PINGRESP to mqttx_c3fcaf6e
+1765448504: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448504: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448557: Received PINGREQ from mqttx_c3fcaf6e
+1765448557: Sending PINGRESP to mqttx_c3fcaf6e
+1765448564: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448564: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448617: Received PINGREQ from mqttx_c3fcaf6e
+1765448617: Sending PINGRESP to mqttx_c3fcaf6e
+1765448624: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448624: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448677: Received PINGREQ from mqttx_c3fcaf6e
+1765448677: Sending PINGRESP to mqttx_c3fcaf6e
+1765448683: Received PINGREQ from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448683: Sending PINGRESP to auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448735: Received DISCONNECT from auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2
+1765448735: Client auto-AB0BD4CA-9E91-4DAB-A99C-22B4F90002A2 disconnected.
+1765448736: mosquitto version 2.0.22 terminating
+1765448736: Client mqttx_c3fcaf6e closed its connection.
+1765448740: mosquitto version 2.0.22 starting
+1765448740: Config loaded from /mosquitto/config/mosquitto.conf.
+1765448740: Opening ipv4 listen socket on port 1883.
+1765448740: Opening ipv6 listen socket on port 1883.
+1765448740: Opening websockets listen socket on port 9005.
+1765448740: mosquitto version 2.0.22 running
+1765448741: New client connected from ::ffff:172.20.0.1:44976 as mqttx_c3fcaf6e (p5, c1, k60).
+1765448741: No will message specified.
+1765448741: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765448741: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448741: 	BTS/# (QoS 0)
+1765448741: mqttx_c3fcaf6e 0 BTS/#
+1765448741: Sending SUBACK to mqttx_c3fcaf6e
+1765448741: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448741: 	CIEL/# (QoS 0)
+1765448741: mqttx_c3fcaf6e 0 CIEL/#
+1765448741: Sending SUBACK to mqttx_c3fcaf6e
+1765448743: New connection from 172.20.0.6:49034 on port 1883.
+1765448743: New client connected from 172.20.0.6:49034 as auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6 (p2, c1, k60).
+1765448743: No will message specified.
+1765448743: Sending CONNACK to auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6 (0, 0)
+1765448743: Received SUBSCRIBE from auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6
+1765448743: 	# (QoS 0)
+1765448743: auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6 0 #
+1765448743: Sending SUBACK to auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6
+1765448801: Received PINGREQ from mqttx_c3fcaf6e
+1765448801: Sending PINGRESP to mqttx_c3fcaf6e
+1765448803: Received PINGREQ from auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6
+1765448803: Sending PINGRESP to auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6
+1765448862: Received PINGREQ from mqttx_c3fcaf6e
+1765448862: Sending PINGRESP to mqttx_c3fcaf6e
+1765448863: Received PINGREQ from auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6
+1765448863: Sending PINGRESP to auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6
+1765448897: Received DISCONNECT from auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6
+1765448897: Client auto-CD27DB37-90BC-3BFB-789F-10299B8AC7F6 disconnected.
+1765448898: mosquitto version 2.0.22 terminating
+1765448898: Client mqttx_c3fcaf6e closed its connection.
+1765448902: mosquitto version 2.0.22 starting
+1765448902: Config loaded from /mosquitto/config/mosquitto.conf.
+1765448902: Opening ipv4 listen socket on port 1883.
+1765448902: Opening ipv6 listen socket on port 1883.
+1765448902: Opening websockets listen socket on port 9005.
+1765448902: mosquitto version 2.0.22 running
+1765448902: New client connected from ::ffff:172.20.0.1:46334 as mqttx_c3fcaf6e (p5, c1, k60).
+1765448902: No will message specified.
+1765448902: Sending CONNACK to mqttx_c3fcaf6e (0, 0)
+1765448902: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448902: 	BTS/# (QoS 0)
+1765448902: mqttx_c3fcaf6e 0 BTS/#
+1765448902: Sending SUBACK to mqttx_c3fcaf6e
+1765448902: Received SUBSCRIBE from mqttx_c3fcaf6e
+1765448902: 	CIEL/# (QoS 0)
+1765448902: mqttx_c3fcaf6e 0 CIEL/#
+1765448902: Sending SUBACK to mqttx_c3fcaf6e
+1765448904: New connection from 172.20.0.6:39050 on port 1883.
+1765448904: New client connected from 172.20.0.6:39050 as auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7 (p2, c1, k60).
+1765448904: No will message specified.
+1765448904: Sending CONNACK to auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7 (0, 0)
+1765448904: Received SUBSCRIBE from auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765448904: 	# (QoS 0)
+1765448904: auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7 0 #
+1765448904: Sending SUBACK to auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765448923: Received PUBLISH from mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765448923: Sending PUBLISH to mqttx_c3fcaf6e (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765448923: Sending PUBLISH to auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7 (d0, q0, r0, m0, 'CIEL', ... (2 bytes))
+1765448964: Received PINGREQ from auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765448964: Sending PINGRESP to auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765448984: Received PINGREQ from mqttx_c3fcaf6e
+1765448984: Sending PINGRESP to mqttx_c3fcaf6e
+1765449025: Received PINGREQ from auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765449025: Sending PINGRESP to auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765449045: Received PINGREQ from mqttx_c3fcaf6e
+1765449045: Sending PINGRESP to mqttx_c3fcaf6e
+1765449085: Received PINGREQ from auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765449085: Sending PINGRESP to auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765449106: Received PINGREQ from mqttx_c3fcaf6e
+1765449106: Sending PINGRESP to mqttx_c3fcaf6e
+1765449145: Received PINGREQ from auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765449145: Sending PINGRESP to auto-E81E5E9D-4F58-6B8F-80B6-593C0EF325F7
+1765449167: Received PINGREQ from mqttx_c3fcaf6e
+1765449167: Sending PINGRESP to mqttx_c3fcaf6e
